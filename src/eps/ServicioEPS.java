@@ -43,7 +43,7 @@ public class ServicioEPS extends EPS {
                 
                 vacia[filaAlea][columAlea] = 6174;
                 
-            }            
+            }
         }
         
         JOptionPane.showMessageDialog(null,"SU CITA FUE ASIGNADA CON EXITO! \n"

@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Estudiante
+ * @author Sebastian Bolaños
  */
 public class ServicioEPS extends EPS {
  

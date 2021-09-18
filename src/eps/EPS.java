@@ -13,6 +13,8 @@ import javax.swing.JOptionPane;
  * @author SEBASTIAN BOLAÑOS MORALES
  * Fecha modificacion: 2021 / 18/09
  * xd
+ * XDDD
+ * NUEVO CAMBIO * 
  * 201767957
  */
 public class EPS {
@@ -21,8 +23,7 @@ public class EPS {
         static String nom, ape, genero ="";
         static String Prioridad = "";
     
-    
-    
+       
     
     public static void main(String[] args) {
         // TODO code application logic here

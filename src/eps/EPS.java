@@ -11,6 +11,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author SEBASTIAN BOLAÑOS MORALES
+ * Fecha modificacion: 2021 / 18/09
  * 201767957
  */
 public class EPS {
